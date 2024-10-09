@@ -1,0 +1,24 @@
+body{
+    background:lightpink; 
+    color: white; 
+}
+
+img {
+    height: 500px;
+    align-items: center;
+    font-size: 0;
+}
+
+h1{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    padding-left: 50px;
+    background-color: rgba(214, 8, 118, 0.943);
+    font-size: 20px;
+}
+
+header{
+    width: 300px;
+
+}
